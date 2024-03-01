@@ -1,6 +1,8 @@
 # belajar-analisis-data-python
 Proyek Akhir Course "Belajar Analisis Data dengan Python" Dicoding
 
+1. File Jupyter Notebook berada di dalam folder "Belajar Analisis Data dengan Python"
+
 #Setup Environment
 
 ```
